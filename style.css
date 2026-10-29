@@ -6,7 +6,7 @@
 }
 
 body {
-
+color: aliceblue;
 }
 
 /* Main Header */
@@ -19,7 +19,7 @@ border-color: #000000;
 }
 
 .main-header h1 {
-color:aqua
+color:aqua;
 }
 
 .main-header p {
@@ -53,9 +53,6 @@ padding: 1rem;
 
 }
 
-.sidebar h2 {
-  
-}
 
 
 .sidebar a {.sidebar a 
@@ -68,7 +65,7 @@ background-color:#fefeff;
 
  }
 
-.sidebar a:hover {background-color: #7091ca
+.sidebar a:hover {background-color: #7091ca;
   }
 
 .content-area {
@@ -87,7 +84,7 @@ background-color:#fefeff;
 iframe {
   width:100%; 
   height:100%; 
-  border:none
+  border:none;
 }
 
 /* Main Footer */
